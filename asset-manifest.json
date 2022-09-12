@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.ba6dc954.css",
+    "main.js": "/my_portfolio/static/js/main.52e53751.js",
+    "static/media/line.mp4": "/my_portfolio/static/media/line.1db8b0b386ab42038ee1.mp4",
+    "static/media/mine21.png": "/my_portfolio/static/media/mine21.0758daa511b0cb58ff09.png",
+    "static/media/me22.png": "/my_portfolio/static/media/me22.41d8cd7fc8a81cf855e7.png",
+    "static/media/shop.png": "/my_portfolio/static/media/shop.444c86c74d7f88a41049.png",
+    "static/media/my1.jpg": "/my_portfolio/static/media/my1.fb29988a0ff80fa66ade.jpg",
+    "static/media/LINDA-AWA.pdf": "/my_portfolio/static/media/LINDA-AWA.757684c41985bdbea808.pdf",
+    "index.html": "/my_portfolio/index.html",
+    "main.ba6dc954.css.map": "/my_portfolio/static/css/main.ba6dc954.css.map",
+    "main.52e53751.js.map": "/my_portfolio/static/js/main.52e53751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba6dc954.css",
+    "static/js/main.52e53751.js"
+  ]
+}
